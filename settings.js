@@ -8,7 +8,7 @@
  | |__| | |_| |  __/  __/ | | |  | |\  | | | |_| |
   \___\_\\__,_|\___|\___|_| |_|  |_| \_|_|_|\__,_|
                                                   
-                                                  BY Janiya
+                                                  BY DiLa
 ===================================================================================================
 */
 
@@ -34,13 +34,13 @@ global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
-global.botnma =  'ǫᴜᴇᴇɴ ɴɪʟᴜ' 
+global.botnma =  '𝐌𝐑⃖⃗ 𝐃𝐈𝐋𝐀͢
 //👇 Your name
-global.ownernma =  'JANIYA' 
+global.ownernma =  '𝐃𝐈𝐋𝐒𝐇𝐀𝐍' 
 //👇 Sticker package name
 global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝐍𝐈𝐋𝐔' 
 //👇 Sticker Author Name
-global.author =  '_JANIYA_' 
+global.author =  '𝐃𝐈𝐋𝐒𝐇𝐀𝐍' 
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'false'
 //👇 Inbox Block Massage 
@@ -49,21 +49,21 @@ global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 global.OWNER_REACT =  '🐼'
 global.BAD_KICK_MSG = '*Bad word detect !*'
 //👇 URL.button 1 name
-global.BUTTON1 = '𝙶𝚒𝚝𝚑𝚞𝚋'
-//👇 URL button 2 name
+global.BUTTON1 = 'whatsapp'
+//👇 URL button 2 name🫦
 global.BUTTON2 = '𝚈𝚘𝚞𝚝𝚞𝚋𝚎'
 //👇 Button 1 url 
-global.BUTTON1_URL = 'https://github.com/janithsadanuwan/'
+global.BUTTON1_URL = 'https://bit.ly/3InXS0c'
 //👇 Button 2 url
-global.BUTTON2_URL = 'https://youtube.com/c/Janithsadanuwan'
+global.BUTTON2_URL = 'https://bit.ly/3InXS0c'
 //👇 Your Add Massage 
 global.ADD_MSG = '*✅ Success add Group*' 
 //👇 Your Kick Massage 
 global.KICK_MSG = '*✅ Success Remove from Group*' 
 //👇 Song Download Massage 
-global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
+global.SONG_DOWN = '```⬇️ Downloading Your Song.ටිකක් ඉන්න පැටියෝ..👸♥..```' 
 //👇 Song Uplode massage 
-global.SONG_UP = '```⬆️ Uploding Your Song...```'
+global.SONG_UP = '```⬆️ Uploding Your Song..ඉවසන්න බබාහ් තව ටිකයි..🫦👸♚´´´
 //👇 212 Number block
 global.NUMBER_212_BLOCK = 'true'
 //👇 Menu imoji 
@@ -93,7 +93,7 @@ global.SEND_WELCOME = process.env.SEND_WELCOME || false
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Desable PM Block
-global.NO_BLOCK = ["94767438882"]
+global.NO_BLOCK = ["+12053901313"]
 
 
 
@@ -105,9 +105,9 @@ global.NO_BLOCK = ["94767438882"]
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
-global.pemilik = ['94767438882'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94767438882'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = '_Janiya_' // Your name ඔබේ නම 
+global.pemilik = ['+12053901313'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['+12053901313'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = '么彡ঔৣϟᎠᎥ𝐥𝐒𝐡𝐚𝐍ঔৣ彡☠︎🥀ঔৣ' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '🔵'
@@ -121,7 +121,7 @@ global.mess = {
     group: '*This command can only be used in groups !*',
     private: '*This command can only be used in Inbox !*',
     bot: '*This command can only be used by bot number !*',
-    wait: '*♲ Please Wait ...*',
+    wait: '*♲ Please Wait ටිකක් ඉන්න පැටියෝ..👸💞...*',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     BLOCK_CMD_MSG : '*⚠️ This Command is Block By Owner*',
     BLOCK : '',
