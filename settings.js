@@ -36,11 +36,11 @@ global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
 global.botnma =  'ǫᴜᴇᴇɴ ɴɪʟᴜ' 
 //👇 Your name
-global.ownernma =  'ঔৣ☠︎ᴍʀ᭄么彡ঔৣ𝐃𝐈𝐋𝐒𝐇𝐀𝐍🥀ঔৣ' 
+global.ownernma =  '么彡ঔৣ𝐃𝐈𝐋𝐒𝐇𝐀𝐍🥀ঔৣ' 
 //👇 Sticker package name
 global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝐍𝐈𝐋𝐔' 
 //👇 Sticker Author Name
-global.author =  'ঔৣ☠︎ᴍʀ᭄么彡ঔৣϟᎠᎥլᏕʜᴀɴϟঔৣ彡☠🥀ঔৣ' 
+global.author =  '📵𝐃𝐈𝐋𝐒𝐇𝐀𝐍ঔৣ' 
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'false'
 //👇 Inbox Block Massage 
@@ -107,7 +107,7 @@ global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
 global.pemilik = ['+12056861335'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
 global.premium = ['+12056861335'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = '_ঔৣ☠︎ᴍʀ᭄么彡ঔৣϟᎠᎥլᏕʜᴀɴϟঔৣ彡☠︎🥀ঔৣ_' // Your name ඔබේ නම 
+global.pengguna = '_ঔৣ☠︎乡𝐦𝐑⃡么彡ঔৣϟᎠᎥ𝐋𝐒𝐇𝐀𝐍ঔৣ彡☠︎🥀ঔৣ_' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '🔵'
@@ -125,7 +125,7 @@ global.mess = {
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     BLOCK_CMD_MSG : '*⚠️ This Command is Block By Owner*',
     BLOCK : '',
-    UNBLOCK : '',
+    UNBLOCK : '',࿐
     KICK : '',
     ADD : '',
     LEAVE : '',
