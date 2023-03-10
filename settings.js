@@ -8,7 +8,7 @@
  | |__| | |_| |  __/  __/ | | |  | |\  | | | |_| |
   \___\_\\__,_|\___|\___|_| |_|  |_| \_|_|_|\__,_|
                                                   
-                                                  BY Janiya
+                                                  BY DILA
 ===================================================================================================
 */
 
@@ -61,7 +61,7 @@ global.ADD_MSG = '*✅ Success add Group*'
 //👇 Your Kick Massage 
 global.KICK_MSG = '*✅ Success Remove from Group*' 
 //👇 Song Download Massage 
-global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
+global.SONG_DOWN = '```⬇️ Downloading Your Song..ටිකක් ඉන්න බබාහ්'"😁.
 //👇 Song Uplode massage 
 global.SONG_UP = '```⬆️ Uploding Your Song...```'
 //👇 212 Number block
