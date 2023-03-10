@@ -107,7 +107,7 @@ global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
 global.pemilik = ['94767438882'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
 global.premium = ['94767438882'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = '_Janiya_' // Your name ඔබේ නම 
+global.pengguna = '_DILSHAN_' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '🔵'
